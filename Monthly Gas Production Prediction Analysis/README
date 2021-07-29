@@ -1,0 +1,2 @@
+In this project, we used the Australian monthly gas production data collected by Australian bureau of statistics during the years 1956-1995. Manual and Auto ARIMA models were used
+to make the predictions and performance was compared to select the final model accordingly.
