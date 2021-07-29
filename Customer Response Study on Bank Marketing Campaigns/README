@@ -1,0 +1,4 @@
+A bank conducted a campaign to increase the conversion ratio of one of their products i.e. “Personal Loans” and the details for customers were collated. The campaign targeted 
+the customers with an offer of Personal Loan at 10% interest rate per annum and in this project we created Clustering, CART, Random Forest and ANN models to understand the 
+customer behavior with respect to such marketing campaigns and also predict the probable customer response if another campaign like such is organized.
+
