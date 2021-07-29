@@ -1,9 +1,11 @@
-####Group Assignment for Advance Statistics - Group 10####
-####SUBMITTED BY :- KUNAL MALIK/SHITAL GUPTA/SHAURYA RAJOUR####
-####PRODUCT EXPERIENCE STUDY FOR HAIR PRODUCTS####
-####Data Analysis through R Programming####
-################################################
-####Start Of The Code####
+#################ASSIGNMENT FOR ADVANCE STATISTICS#################
+####################SUBMITTED BY :- SHITAL GUPTA###################
+#######R PROJECT: PRODUCT EXPERIENCE STUDY FOR HAIR PRODUCTS#######
+###################################################################
+
+#####################START OF THE ANALYSIS#########################
+#######################START OF THE CODE###########################
+
 ####Step 1 :- Setting the Current Working Directory####
 getwd()
 setwd("C:/Users/shital/Documents/R/RProgramming")
@@ -279,6 +281,8 @@ Adjusted_R_Square_Test <- 1 - (SSE/SST)
 Adjusted_R_Square_Test
 RMSE <- sqrt(R_Square_Test) #Root Mean Squared Error#
 RMSE
-################################################
-####End of the Code####
-####End of the Analysis####
+
+#######################END OF THE CODE############################
+#####################END OF THE ANALYSIS##########################
+
+##################################################################
