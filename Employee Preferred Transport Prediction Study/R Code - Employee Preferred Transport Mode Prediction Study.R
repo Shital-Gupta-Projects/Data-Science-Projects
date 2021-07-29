@@ -1,5 +1,5 @@
-#############################GROUP ASSIGNMENT FOR MACHINE LEARNING############################
-#############################SUBMITTED BY: GROUP 10 - SHITAL GUPTA############################
+##############################ASSIGNMENT FOR MACHINE LEARNING#################################
+#############################SUBMITTED BY: SHITAL GUPTA#######################################
 ###############R PROJECT: EMPLOYEE PREFERRED TRANSPORT MODE PREDICTION ANALYSIS###############
 ##############################################################################################
 #########################Start of the Analysis################################
@@ -520,6 +520,9 @@ ModelPerformanceAnalysis$GradientBoosting <- c(0.962,0.978,0.957,1.000,0.038,0.9
 ModelPerformanceAnalysis$ExtremeGradientBoosting <- c(0.947,0.865,0.991,0.739,0.053,0.97,0.99,0.95,0.98)
 ModelPerformanceAnalysis
 #Conclusion: Gradient Boosting Model has performed the best amongst all models, Logistic Regression#
-#            model can be considered if no changes are preferred for data variables.               #                                                                       #
+#            model can be considered if no changes are preferred for data variables.               #
+
 #########################End of the Code####################################
 #########################End of the Analysis################################
+
+##############################################################################################
