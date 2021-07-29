@@ -1,0 +1,3 @@
+In this project, we simulated a case of customer churn where I worked on a data of a telecom company for postpaid customers. The data has information about customer usage 
+behavior, contract details, and payment details. Logistic Regression models were made and interpreted for predicting whether a customer will cancel their service in the future 
+or not.
