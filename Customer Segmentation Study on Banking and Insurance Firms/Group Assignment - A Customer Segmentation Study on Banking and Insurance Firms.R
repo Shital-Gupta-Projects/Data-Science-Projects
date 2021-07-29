@@ -1,10 +1,11 @@
-####Group Assignment for Data Mining - Group 8####
-####SUBMITTED BY :- DIVENKAR SHARMA/PIYUSH KUKRETI/SHITAL GUPTA####
-####CUSTOMER SEGMENTATION STUDY FOR BANKING & INSURANCE FIRMS####
-####Data Analysis through R Programming####
-################################################
-#############Start of the Analysis##############
-#############Start Of The Code##################
+#######################ASSIGNMENT FOR DATA MINING###########################
+######################SUBMITTED BY :- SHITAL GUPTA##########################
+####R PROJECT: CUSTOMER SEGMENTATION STUDY FOR BANKING & INSURANCE FIRMS####
+############################################################################
+
+########################START OF THE ANALYSIS###############################
+##########################START OF THE CODE#################################
+
 ####Step 1 :- Setting the Current Working Directory####
 getwd()
 setwd("C:/Users/shital/Documents/R/RProgramming")
@@ -338,6 +339,8 @@ ANN_Test$ANNUPred <- ifelse(ANN_Test$ANNUPred>0.5,"Yes","No")
 ANN_Test_Balanced$ANNBPred <- ifelse(ANN_Test_Balanced$ANNBPred>0.5,"Yes","No")
 confusionMatrix(table(ANN_Test$Claimed, ANN_Test$ANNUPred))
 confusionMatrix(table(ANN_Test_Balanced$ANNBPred,ANN_Test_Balanced$Claimed))
-################################################
-###############End of the Code##################
-###############End of the Analysis##############
+
+##########################END OF THE CODE#################################
+########################END OF THE ANALYSIS###############################
+
+##########################################################################
