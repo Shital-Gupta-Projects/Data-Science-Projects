@@ -1,0 +1,2 @@
+This is a time series forecasting R project that predicts the monthly sales for a souvenir shop in Queensland, Australia based on the historical sales data given 
+for the period of January 1987 to December 1993. ARIMA and Holts-Winter Time Series Models were used for forecasting the sales.
