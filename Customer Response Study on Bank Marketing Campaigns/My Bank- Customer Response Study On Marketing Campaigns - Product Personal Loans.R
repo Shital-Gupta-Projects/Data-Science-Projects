@@ -1,9 +1,12 @@
-####Individual Assignment for Data Mining ####
-####SUBMITTED BY :- SHITAL GUPTA####
-####CUSTOMER RESPONSE STUDY FOR BANK MARKETING STRATEGIES USING PERSONAL LOANS CAMPAIGNS DATA####
-####Data Analysis through R Programming####
-################################################
-####Start Of The Code####
+###################################INDIVIDUAL ASSIGNMENT FOR DATA MINING####################################
+########################################SUBMITTED BY :- SHITAL GUPTA########################################
+####R PROJECT: CUSTOMER RESPONSE STUDY FOR BANK MARKETING STRATEGIES USING PERSONAL LOANS CAMPAIGNS DATA####
+
+############################################################################################################
+
+#########################################START OF THE ANALYSIS##############################################
+###########################################START OF THE CODE################################################
+
 ####Step 1 :- Setting the Current Working Directory####
 getwd()
 setwd("C:/Users/shital/Documents/R/RProgramming")
@@ -399,6 +402,8 @@ GiniTDM2$PredictClass = predict(PrunedCARTModel3, GiniTDM2, type = "class")
 GINICoeffM2 <- ineq(GiniTDM2$PredictScore[,2],OSTED_OUComb$TARGET)
 with(GiniTDM2, table(TARGET, PredictClass))
 GINICoeffM2
-################################################
-####End of the Code####
-####End of the Analysis####
+
+#########################################END OF THE ANALYSIS################################################
+###########################################END OF THE CODE##################################################
+
+############################################################################################################
