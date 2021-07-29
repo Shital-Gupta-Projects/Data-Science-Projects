@@ -1,5 +1,5 @@
-######################GROUP ASSIGNMENT FOR TIME SERIES FORECASTING#################################
-##############################SUBMITTED BY: GROUP 12 - SHITAL GUPTA################################
+############################ASSIGNMENT FOR TIME SERIES FORECASTING#################################
+###############################SUBMITTED BY: SHITAL GUPTA##########################################
 ######## R PROJECT: DATA ANALYSIS FOR QUEENSLAND BEACH RESORT SOUVENIR SHOP MONTHLY SALES #########
 ###################################################################################################
 #########################Start of the Analysis################################
