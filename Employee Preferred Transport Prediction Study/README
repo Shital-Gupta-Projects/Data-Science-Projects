@@ -1,0 +1,2 @@
+This project helps us to understand what mode of transport employees prefers to commute to their office and predict whether or not an employee will use Car as a mode of transport.
+KNN, Naive Bayes, Logistic Regression, Boosting and Bagging models were used and compared for best performance, final model was used for the predictions accordingly. 
